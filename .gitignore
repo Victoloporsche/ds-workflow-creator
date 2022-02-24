@@ -1,4 +1,4 @@
 venv/
 build/
 dist/
-src.egg-info/
+ds_workflow.egg-info/
