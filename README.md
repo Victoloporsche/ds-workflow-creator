@@ -7,6 +7,11 @@ for end-to-end machine learning project.
 
 `pip install ds-workflow`
 
+**Usage**
+
+`from ds_workflow.ds_workflow_creator import create_my_ds_workflow`
+`create_my_ds_workflow()`
+
 **License**
 
 MIT
