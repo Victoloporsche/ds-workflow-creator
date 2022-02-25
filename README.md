@@ -9,7 +9,7 @@ for end-to-end machine learning project.
 
 **Usage**
 
-`from ds_workflow.ds_workflow_creator import create_my_ds_workflow`
+`from ds_workflow.ds_workflow_creator import create_my_ds_workflow` <br />
 `create_my_ds_workflow()`
 
 **License**
