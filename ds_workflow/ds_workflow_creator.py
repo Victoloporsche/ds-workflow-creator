@@ -7,6 +7,7 @@ directories = [
     "artifacts",
     os.path.join("data", "raw"),
     os.path.join("data", "processed"),
+    "data_fetcher",
     "data_given",
     "notebooks",
     os.path.join("prediction_service", "model"),
