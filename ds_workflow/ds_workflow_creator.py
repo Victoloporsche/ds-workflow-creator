@@ -23,7 +23,7 @@ directories = [
 
 files = [
     ".gitignore",
-    "Procfile"
+    "Procfile",
     "README.md",
     "LICENSE",
     "app.py",
